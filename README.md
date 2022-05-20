@@ -1,7 +1,7 @@
 Hi 👋 My name is Sotunde Samuel Olawale
 =======================================
 
-Web Developer
+A FrontEnd Developer 💻
 -------------
 
 In process to become a FrontEnd Developer 👩‍💻
