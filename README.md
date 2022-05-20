@@ -1,4 +1,4 @@
-Hi 👋 My name is Sotunde Samuel Olawale
+Hi 👋 My name is Sotunde Samuel 
 =======================================
 
 A FrontEnd Developer 💻
@@ -10,7 +10,7 @@ In process to become a FrontEnd Developer 👩‍💻
 * ✉️  You can contact me at [sotundesami@gmail.com](mailto:sotundesami@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on interesting project
-* ⚡  I love playing and watching football😅
+* ⚡  I love playing and watching football🙂
 
 ### Skills
 
